@@ -9,4 +9,10 @@ public class BikeDemo {
 		
 		System.out.println("Hello bike");
 	}
+
+void bye() {
+	System.out.println("Bye bikes");
+}
+
+
 }
