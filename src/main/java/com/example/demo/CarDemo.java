@@ -13,5 +13,7 @@ public class CarDemo {
 		d.carRepair();
 	}
 	
-	
+	void carNormal() {
+		System.out.println("car Normal()");
+	}
 }
