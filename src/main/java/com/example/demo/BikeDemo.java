@@ -2,6 +2,10 @@ package com.example.demo;
 
 public class BikeDemo {
 
+	void m2() {
+		System.out.println("m2() bike demo");
+	}
+	
 	void hello() {
 		
 	}
