@@ -2,6 +2,13 @@ package com.example.demo;
 
 public class CarDemo {
 
+	
+	void carYes(){
+		System.out.println("Car Yes");
+	}
+	
+	
+	
 	void carRepair(){
 		System.out.println("Car Repair ");
 	}
