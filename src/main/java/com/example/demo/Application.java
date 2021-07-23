@@ -11,8 +11,13 @@ public class Application {
 	}
 
 void m1(){
-SpringApplication.run(Application.class, args);
+SpringApplication.run("m2() method ");
 }
+
+void m2(){
+SpringApplication.run("m1() method ");
+}
+
 
 
 }
