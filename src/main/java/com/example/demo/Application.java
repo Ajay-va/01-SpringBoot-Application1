@@ -10,4 +10,9 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 
+void m1(){
+System.out.println("m1() method ");
+}
+
+
 }

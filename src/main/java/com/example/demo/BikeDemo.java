@@ -17,5 +17,10 @@ void bye() {
 	System.out.println("Bye bikes");
 }
 
+void hi() {
+	System.out.println("Hi bikes");
+}
+
+
 
 }
