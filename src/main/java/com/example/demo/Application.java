@@ -11,8 +11,16 @@ public class Application {
 	}
 
 void m1(){
+
 System.out.println("m1() method ");
+SpringApplication.run("m2() method ");
+
 }
+
+void m2(){
+SpringApplication.run("m1() method ");
+}
+
 
 
 }
