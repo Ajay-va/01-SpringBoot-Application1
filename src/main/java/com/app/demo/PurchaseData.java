@@ -14,4 +14,9 @@ public class PurchaseData {
 		System.out.println("purchase details are included here");
 	}
 
+	
+	void data2() {
+		System.out.println("purchase details information");
+	}
+	
 }
